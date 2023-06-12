@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project to complete the devops pipeline by Nkam and team mates!!   </h1>
+<h1> Hello, Welcome to Development Team Project which is geared towards completing our devops pipeline presented by Nkam and team mates!!   </h1>
 <h2> Dear COLLEAGUES, this is really awesome because I am getting everything right </h2>
 <h2> Glad to see you here as well </h2>
 <h1> Good job ETIENDEM for showing us the light</h1>
