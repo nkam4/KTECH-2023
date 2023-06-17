@@ -5,4 +5,4 @@
 <h1> I can't wait to start making the big SIX FIGURES!!!</h1>  
 <h1> it is really fun when you can understand what you are doing</h1>  
 <h1> docker is pretty simple guys. I can't just keep calm till I make that 6 figure income. Lets stay focus guys. </h1>  
-<h1>THANK YOU ALL FOR YOUR KIND ATTENTION!!! </h1>
+<h1>THANK YOU ALL FOR YOUR KIND!!! </h1>
